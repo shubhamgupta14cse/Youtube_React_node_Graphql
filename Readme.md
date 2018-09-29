@@ -88,6 +88,7 @@ For fetching token and authorizing the server listen at port:3000 i.e where goog
 * Apollo Client: https://www.apollographql.com/docs/react/api/react-apollo.html#mutation
 * https://codeburst.io/graphql-and-apollo-client-by-example-part-3-a2aef2d0de7c
 * Ben Awad(youtube): https://www.youtube.com/user/99baddawg/search?query=mutation
+* Jayden Seric(github):https://github.com/jaydenseric
 * GraphQL: https://www.howtographql.com/advanced/0-clients/
 * https://graphql.org/graphql-js/running-an-express-graphql-server/
 * MUTATION: https://graphql.org/graphql-js/mutations-and-input-types/
