@@ -77,6 +77,13 @@ The server side application make an REST call to get oauth 2 authentication whic
 the oAuth2Client is provided by googleapis module and is used to authorize the API call and get the authentication token.
 For fetching token and authorizing the server listen at port:3000 i.e where google send authentication token.
 
+## AREA OF IMPROVEMENTS.
+*  Implementing server side node pipeling which will direct upload video to youtube server without saving it to our node server directory.
+* Response handling on client side and making app  more interactive .
+* Implementing delete ,download , channel info and content retrival operation.
+* Increasing the scope to drive.google and others google api.
+
+### Note: This project is still under development and have a diverse scope of improvements and features implementations.
 
 ## Acknowledgments
 
