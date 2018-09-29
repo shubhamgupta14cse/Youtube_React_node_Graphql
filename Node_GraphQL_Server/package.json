@@ -1,0 +1,16 @@
+{
+  "name": "simple-graphql-yoga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set PORT=3030 && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-upload": "^8.0.0",
+    "graphql-yoga": "^1.16.2"
+  }
+}
