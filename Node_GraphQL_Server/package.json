@@ -10,7 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express-graphql": "^0.6.12",
+    "fs": "0.0.1-security",
+    "googleapis": "^34.0.0",
+    "graphql-server-express": "^1.4.0",
     "graphql-upload": "^8.0.0",
-    "graphql-yoga": "^1.16.2"
+    "graphql-yoga": "^1.16.2",
+    "http": "0.0.0",
+    "opn": "^5.4.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "r-json": "^1.2.8",
+    "server-destroy": "^1.0.1"
   }
 }
