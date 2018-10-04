@@ -1,0 +1,2 @@
+this is the folder on server directory where the video first get stored before node upload it to youtube
+at the local host node port server this interactive graphql api endpoint can be used to make mutation and queries and inspect schemas
