@@ -3,7 +3,7 @@ import { Mutation } from 'react-apollo';
 import gql from 'graphql-tag';
 import Dropzone from 'react-dropzone';
 import { Button, Radio, Icon } from 'antd';
-import axios from 'axios';
+//import axios from 'axios';
 
 import 'antd/lib/date-picker/style/css';
 import 'antd/dist/antd.css';
