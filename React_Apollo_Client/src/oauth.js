@@ -41,7 +41,7 @@ class ButtonSiz extends React.Component {
         <Mutation mutation={uploadFileMutation}>
           {mutate => (
             <div style={wrapper}>
-              <Button onClick={async ()=>{  mutate({ variables: {request: 'true',} }); /*redirect_url=await axios.get('http://localhost:4000/redirect/');*/ win = window.open('http://localhost:4000/redirect/', '_blank');win.focus();}} type="primary" icon="download" size={size}>Login</Button>
+              <Button onClick={async ()=>{  mutate({ variables: {request: 'true',} }); win = window.open('http://localhost:4000/redirect/', '_blank');win.focus();}} type="primary" icon="download" size={size}>Login</Button>
             </div>
           )}
         </Mutation>
